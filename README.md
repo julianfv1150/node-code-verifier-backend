@@ -10,6 +10,9 @@ webpack webpack-cli webpack-node-externals webpack-shell-plugin (dev)   : COMPRE
 eslint (dev)                                                            : CODE CLEANER
 jest @types/jest supertest (dev)                                        : TESTING
 serve (dev)                                                             : SERVER TEST
+cors (local)                                                            : SECURITY REQUEST DOM
+@types/cores (dev                                                       : TYPES FOR TS
+helmet (local)                                                          : SECURITY POLICIES
 
 
 Extensions VSC:
