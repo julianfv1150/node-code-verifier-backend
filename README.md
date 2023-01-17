@@ -13,6 +13,7 @@ serve (dev)                                                             : SERVER
 cors (local)                                                            : SECURITY REQUEST DOM
 @types/cores (dev                                                       : TYPES FOR TS
 helmet (local)                                                          : SECURITY POLICIES
+mongoose (local)                                                        : DB MANAGMENT
 
 
 Extensions VSC:
